@@ -13,9 +13,9 @@
 | 编号 | 课题                                                         |
 | ---- | ------------------------------------------------------------ |
 | 001  | [java+jsp+servlet+mysql高校宿舍管理系统（有升级版）#](http://www.xiaoniucr.com/project/view/69.html) |
-| 002  | [[java+jsp+servlet+sqlserver养生文化网（前后台+论文）](http://www.xiaoniucr.com/project/view/67.html) |
-| 003  | [[java+jsp+servlet+sqlserver教师档案管理系统（论文+任务书+ppt+中期检查）](http://www.xiaoniucr.com/project/view/62.html) |
-| 005  | [[java+jsp+servlet+mysql医院预约挂号网（论文+任务书+中期检查+ppt）](http://www.xiaoniucr.com/project/view/49.html) |
+| 002  | [java+jsp+servlet+sqlserver养生文化网（前后台+论文）](http://www.xiaoniucr.com/project/view/67.html) |
+| 003  | [java+jsp+servlet+sqlserver教师档案管理系统（论文+任务书+ppt+中期检查）](http://www.xiaoniucr.com/project/view/62.html) |
+| 005  | [java+jsp+servlet+mysql医院预约挂号网（论文+任务书+中期检查+ppt）](http://www.xiaoniucr.com/project/view/49.html) |
 | 006  | [java+jsp+servlet+mysql文件管理系统#](http://www.xiaoniucr.com/project/view/135.html) |
 | 008  | [java+jsp+servlet+mysql在线答疑系统](http://www.xiaoniucr.com/project/view/137.html) |
 | 009  | [java+jsp+servlet+mysql个人网站-博客（源码+论文）](http://www.xiaoniucr.com/project/view/138.html) |
@@ -322,57 +322,52 @@
 | 003  | [java+springboot+mysql客户关系管理系统](http://www.xiaoniucr.com/project/view/391.html) |
 
 
-#### 其他项目：
+### 其他项目清单：
 
-- 001java+jsp+mysql教务管理系统
-- 002java+jsp+mysq幼儿园教育管理系统
-- 003java+jsp+mysql教务管理系统（学生、教师、管理、成绩分析和统计）+ppt
-- 004java+jsp+mysql学生信息管理系统
-- 005java+jsp+mysql商品出入库管理系统
-- 006java+jsp+mysq校园网站兼服务平台（二手物品、失物招领、新闻资讯、校车查询
-- 007java+jsp+mysql音乐网站
-- 008java+spring+springmvc-+hibernate图书管理系统
-- 009java+spring+springmvc+hibernate,人力资源考勤系统
-- 010java+jsp+mysql高校宿舍管理系统
-- 011java+spring+springmvc图书管理系统
-- 012java+jsp+mysql新闻网站（前后台）
-- 013java+jsp+mysql在线商城（前后台）
-- 014java+jsp+ysql在线考试系统
-- 015java+jsp+mysql高校社团网-前后台
-- 016java+spring+springmvc-+hibernate+mysql在线视频学习网站
-- 017java+spring+springmvc+hibernate+bootstrap+mysqli高校活动管理系统
-- 018java+jsp+sqlserver奥运网站
-- 019java+jsp+mysql校园二手物品交易
-- 020java+jsp+mysql实验室预约管理
-- 021java+jsp+mysql社区预约挂号系统
-- 022java+spring+springmvc+hibernate+mysql在线商城
-- 023java+jsp+mysql大学设备管理
-- 024java+jsp+mysql教务评教管理系统
-- 025java+spring+springmvc-+hibernate企业oa管理系统
-- 026java+jsp+sqlserver都市供求信息网站
-- 027java+jsp+mysql在线家教网
-- 028java+jsp+mysql校园迎新
-- 029java+jsp+mysql大学生助学贷款管理系统
-- 030java+jsp+mysql幼儿园管理系统网站
-- 031java+struts2+spring+mybatisi客户关系管理系统
-- 032java+jsp+sqlserver网上书店
-- 033java+jsp+mysql宠物领养网站
-- 034java+jsp+mysql户籍管理系统
-- 035java+jsp+mysql促销秒杀竞拍商城
-- 036java+spring+springmvc+hibernate实验室预约管理系统
-- 037java+jsp+mysql(sqlserver)科研管理系统
-- 038java+jsp+mysql网上考勤管理系统
-- 039java+jsp+mysqll网上订餐管理系统
-- 040java+jsp+mysql法律咨询网站
-- 041java+springmvc+spring+hibernatel成绩管理系统
-- 042java+jsp+mysql毕业设计管理系统
-- 043java+jsp+sqlserver多用户博客管理系统
-- 044java+jsp+mysql塞北旅游网站
-- 045java+jsp+mysql校园网
+| 编号 | 课题                                                         |
+| ---- | ------------------------------------------------------------ |
+| 001  | [java+jsp+mysql教务管理系统](http://www.xiaoniucr.com/project/view/155.html) |
+| 003  | [java+jsp+mysql教务管理系统（学生、教师、管理、成绩分析和统计）+ppt](http://www.xiaoniucr.com/project/view/157.html) |
+| 004  | [java+jsp+mysql学生信息管理系统](http://www.xiaoniucr.com/project/view/158.html) |
+| 005  | [java+jsp+mysql商品出入库管理系统](http://www.xiaoniucr.com/project/view/159.html) |
+| 008  | [java+spring+springmvc+hibernate图书管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/162.html) |
+| 009  | [java+spring+springmvc+hibernate人力资源考勤系统（源码+论文）](http://www.xiaoniucr.com/project/view/163.html) |
+| 010  | [java+jsp+mysql高校宿舍管理系统](http://www.xiaoniucr.com/project/view/164.html) |
+| 011  | [java+spring+springmvc图书管理系统](http://www.xiaoniucr.com/project/view/165.html) |
+| 012  | [java+jsp+mysql新闻网站（前后台）](http://www.xiaoniucr.com/project/view/166.html) |
+| 013  | [java+jsp+mysql在线商城（前后台）](http://www.xiaoniucr.com/project/view/167.html) |
+| 014  | [java+jsp+mysql在线考试系统](http://www.xiaoniucr.com/project/view/168.html) |
+| 015  | [java+jsp+mysql高校社团网-前后台（源码+论文+ppt）](http://www.xiaoniucr.com/project/view/169.html) |
+| 017  | [java+spring+springmvc+hibernate+bootstrap+mysql高校活动管理系统](http://www.xiaoniucr.com/project/view/171.html) |
+| 018  | [java+jsp+sqlserver奥运网站（论文+任务书+ppt+中期检查）](http://www.xiaoniucr.com/project/view/172.html) |
+| 019  | [java+jsp+mysql校园二手物品交易（论文+ppt）](http://www.xiaoniucr.com/project/view/192.html) |
+| 020  | [java+jsp+mysql实验室预约管理（源码+论文+开题+任务书+ppt）](http://www.xiaoniucr.com/project/view/193.html) |
+| 021  | [java+jsp+mysql社区预约挂号系统](http://www.xiaoniucr.com/project/view/217.html) |
+| 022  | [java+spring+springmvc+hibernate+mysql在线商城](http://www.xiaoniucr.com/project/view/218.html) |
+| 023  | [java+jsp+mysql大学设备管理（源码+论文）](http://www.xiaoniucr.com/project/view/219.html) |
+| 024  | [java+jsp+mysql教务评教管理系统（源码+论文+任务书+中期检查）](http://www.xiaoniucr.com/project/view/220.html) |
+| 026  | [java+jsp+sqlserver都市供求信息网站](http://www.xiaoniucr.com/project/view/256.html) |
+| 027  | [java+jsp+mysql在线家教网](http://www.xiaoniucr.com/project/view/257.html) |
+| 028  | [java+jsp+mysql校园迎新（新生报道）网站（源码+论文+任务书+答辩ppt）](http://www.xiaoniucr.com/project/view/259.html) |
+| 029  | [java+jsp+mysql大学生助学贷款管理系统（论文+任务书+中期检查+ppt）](http://www.xiaoniucr.com/project/view/280.html) |
+| 030  | [java+jsp+mysql幼儿园管理系统网站](http://www.xiaoniucr.com/project/view/287.html) |
+| 031  | [java+struts2+spring+mybatis客户关系管理系统](http://www.xiaoniucr.com/project/view/297.html) |
+| 032  | [java+jsp+sqlserver网上书店（源码+论文）](http://www.xiaoniucr.com/project/view/327.html) |
+| 033  | [java+jsp+mysql宠物领养网站（源码+论文）](http://www.xiaoniucr.com/project/view/328.html) |
+| 034  | [java+jsp+mysql户籍管理系统（源码+论文+任务书+ppt）](http://www.xiaoniucr.com/project/view/351.html) |
+| 035  | [java+jsp+mysql促销秒杀竞拍商城（源码+论文+ppt）](http://www.xiaoniucr.com/project/view/360.html) |
+| 036  | [java+spring+springmvc+hibernate实验室预约管理系统](http://www.xiaoniucr.com/project/view/387.html) |
+| 037  | [java+jsp+mysql（sqlserver）科研管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/386.html) |
+| 038  | [java+jsp+mysql网上考勤管理系统](http://www.xiaoniucr.com/project/view/405.html) |
+| 039  | [java+jsp+mysql网上订餐管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/404.html) |
+| 040  | [java+jsp+mysql法律咨询网站](http://www.xiaoniucr.com/project/view/407.html) |
+| 041  | [java+springmvc+spring+hibernate成绩管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/415.html) |
+| 042  | [java+jsp+mysql毕业设计管理系统（源码+论文+开题+答辩ppt）](http://www.xiaoniucr.com/project/view/440.html) |
+| 043  | [java+jsp+sqlserver多用户博客管理系统（源码+答辩ppt+任务书）](http://www.xiaoniucr.com/project/view/445.html) |
+| 044  | [java+jsp+mysql塞北旅游网站（源码+论文+任务书+答辩ppt）](http://www.xiaoniucr.com/project/view/494.html) |
+| 045  | java+jsp+sqlserver世界杯网站                                 |
 
 
-
-java毕业设计，这里是之前写过的一些java毕业设计项目，包含一些管理系统和网站设计，资源丰富，有需要的同学可以咨询qq=>1344127185或者vx=>itcoderyhl
 
 
 
