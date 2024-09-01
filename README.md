@@ -228,107 +228,88 @@
 
 
 
-#### SSM项目清单：
+### SSM项目清单：
 
-- 001java+ssm+mysql+easyuil企业管理基础权限框架
-
-- 002java+ssm+exs+mysql内容管理基础权限框架#
-- 003java+ssm+layui+mysql学生成绩管理系统（学生教师管理员功齐全）#
-- 004java+ssm+bootstrap+mysql大学生评教系统-精品
-- 005java+ssm+mysql超市商城管理系统
-- 006java+ssm+bootstrap+mysql宠物售卖及服务系统-特精
-- 007java+ssm+mysql房屋租赁系统（设计图+表说明）#
-- 008java+ssm+easyui+mysql高校共享单车管理系统#
-- 009java+ssm+mysql家校按通网站管理系统
-- 010java+ssm+easyui+mysql家庭理财管理系统#
-- 011java+ssm+easyui+mysql企业生产管理平台
-- 012java+ssm+bootstrap+mysqlF商品拍卖系统#
-- 013java+ssm+mysql校园门户网站
-- 014java+ssm+layui+mysqlE医药生产ERP管理系统
-- 015java+ssm+mysql校园校车调度系统
-- 016java+ssh+mysql药品管理系统
-- 016java+ssm+mysql超市收银管理系统
-- 017java+ssm+mysql网页聊天及五子棋对战系统
-- 018java+ssm+bootstrap+mysql响应式个人财务系统（支持PC和手机端浏览
-- 019java+ssm+mysql在线笔记
-- 020java+ssm+bootstrap+mysql响应式博客系统（支持PC和移动端）
-- 021java+ssm+bootstrap+mysqli简单博客系统
-- 022java+ssm+easyui+mysql框架的宠物医院
-- 023java+ssm+bootstrap+mysql师生交流学习系统
-- 024java+ssm+bootstrap+mysql婚纱摄影网站（网站+后台）-绝对精品
-- 025java+ssm+bootstrap+layui+mysql视频在线播放网站
-- 026java+ssm+mysql功能强大的校园网（新间+班级+校友+论坛+招聘+服务）
-- 027java+ssm+mysql汽车销售后台管理系统
-- 028java+ssm+layui+mysql客户管理系统（适合各种店铺）
-- 029java+ssm+easyui+ysql药品销售管理系统
-- 030java+ssm+mysql医院住院管理系统
-- 031java+ssm+bootstrap+mysql毕到业设计管理系统
-- 032java+ssm+easyui+mysql员T管理系统
-- 033java+ssm+bootstrap+mysql物流管理系统
-- 034java+ssm+mysql销售管理系统（化江调味品】
-- 035java+ssm+bootstrap+mysq高校社团管理
-- 036java+ssm+bootstrap+mysql机票预订（部分瑕疵基本完美）
-- 037java+ssm+mysql教学班级管理系统
-- 038java+ssm+mysql高仿qq空间
-- 039java+ssm+mysql的车辆维修管理系统
-- 040java+ssm+ayui+mysql高校宿舍管理系统
-- 041java+ssm+bootstrap+mysql企业oa管理系统
-- 042java+ssm+bootstrap+mysql人力资源管理系统-新
-- 043java+ssm+mysql养老院管理系统
-- 044java+ssm+mysql博客系统-极品
-- 045java+ssm+bootstrp+mysql仓库进销存系统
-- 046java+ssm+bootstrap+mysql出入库（进销存）管理系统
-- 047java+ssm+bootstrap+mysql电子商城-精品
-- 048java+ssm+mysql房屋销售管理
-- 049java+ssm+easyui+-mysql请假管理系统(Activity)
-- 050java+ssm+huiadmin+mysql企业功公oa管理系统
-- 051」java+ssm+mysql进销存管理系统
-- 052java+ssm+bootstrap+mysql酒店管理系统
-- 053java+ssm+mysql论坛
-- 054java+ssm+bootsrap人力资源考勤系统
-- 055java+ssm+easyui+mysql图书馆座位预约系统
-- 056java+ssm+mysql图书管理系统-界面精美
-- 057java+ssm+mysql新间网站（发布+展示）
-- 058java+ssm+bootstrap+mysql网上季食商城
-- 059java+ssm+bootstrap+mysql在线考试系统
-- 060java+ssm+mysql在线书城
-- 061java+ssm+layui+mysql在线选课系统
-- 062java+ssm+bootstrap+mysql自习室座位预约系统
-- 063java+ssm+mysql班级通讯录
-- 064java+ssm+mysql车辆租赁系统
-- 065java+ssm+mysql智惹校园乒乓球裁判管理系统
-- 066java+ssm+bootstrap+mysql教务系统-精品
-- 067java+ssm+bootstrap+mysql高中在线考试系统
-- 068java+ssm+mysql基于FHAdmimi的后台管理框架（含开发文档）-二次开发不二之选
-- 069java+ssm+mysql求职招聘
-- 070java+ssm+mysql小区物业管理
-- 071java+ssm+mysql学科竞赛管理系统
-- 072java+ssm+mysql博物馆售票网
-- 073jav3+ssm+mysql精美在线商城网站
-- 074java+ssm+mysql智能制造管理系统
-- 075java+ssm+mysql农场信息管理系统
-- 076java+ssm+mysql酒店预约管理系统
-- 077java+ssm+mysql图书借阅管理系统
-- 078java+ssm+mysql校园二手商品交易网
-- 079java+ssm+mysql通用企业门户网站
-- 080java+ssm+mysql房屋出租网
-- 081java+ssm+mysql垃圾分类管理
-- 082java+ssm+mysql旅游网站
-- 083java+ssm+mysql校园教务管理系统
-- 084java+ssm+mysql宿舍财产管理系统
-- 085java+ssm+mysql水电费管理系统
-- 086java+ssm+mysql工资管理系统
-- 087java+ssm(ibatis)+mysql校园二手商品交易网
-- 088java+ssm(spring+springmvc+ibatis)+mysql物业管理系统
-- 089java+ssm+mysql家电商城
-- 090java+ssm+mysql校园失物招领网站
-- 091」java+ssm+mysql校园订餐管理系统
-- 092」java+ssm+mysql汽车维修管理系统
-- 093java+ssm+mysql宿舍管理系统
-- 094java+ssm+mysqINBA球队管理系统
-- 095java+ssm+mysql疫情物资商城
-- 096java+ssm+mysql校园快递物流管理系统
-- 097java+ssm+mysql校园兼职网
+| 编号 | 课题                                                         |
+| ---- | ------------------------------------------------------------ |
+| 001  | [java+ssm+mysql+easyui企业管理基础权限框架](http://www.xiaoniucr.com/project/view/2.html) |
+| 002  | [java+ssm+mysql+easyui企业管理基础权限框架](http://www.xiaoniucr.com/project/view/3.html) |
+| 003  | [java+ssm+layui+mysql学生成绩管理系统（学生教师管理员功能齐全）#](http://www.xiaoniucr.com/project/view/4.html) |
+| 005  | [java+ssm+mysql超市商城管理系统（开题）#](http://www.xiaoniucr.com/project/view/5.html) |
+| 007  | [java+ssm+mysql房屋租赁系统（设计图+表说明）#](http://www.xiaoniucr.com/project/view/18.html) |
+| 008  | [java+ssm+easyui+mysql高校共享单车管理系统#](http://www.xiaoniucr.com/project/view/20.html) |
+| 009  | [java+ssm+mysql家校通网站管理系统](http://www.xiaoniucr.com/project/view/21.html) |
+| 010  | [java+ssm+easyui+mysql家庭理财管理系统#](http://www.xiaoniucr.com/project/view/19.html) |
+| 012  | [java+ssm+bootstrap+mysql商品拍卖系统#](http://www.xiaoniucr.com/project/view/24.html) |
+| 013  | [java+ssm+mysql校园门户网站（开题+需求分析说明书）](http://www.xiaoniucr.com/project/view/25.html) |
+| 015  | [java+ssm+mysql校园校车调度系统](http://www.xiaoniucr.com/project/view/87.html) |
+| 016  | [java+ssm+mysql超市收银管理系统](http://www.xiaoniucr.com/project/view/27.html) |
+| 017  | [java+ssm+mysql网页聊天及五子棋对战系统](http://www.xiaoniucr.com/project/view/28.html) |
+| 019  | [java+ssm+mysql在线笔记](http://www.xiaoniucr.com/project/view/392.html) |
+| 020  | [java+ssm+bootstrap+mysql响应式博客系统（支持PC和移动端）](http://www.xiaoniucr.com/project/view/31.html) |
+| 021  | [java+ssm+bootstrap+mysql简单博客系统](http://www.xiaoniucr.com/project/view/32.html) |
+| 022  | [java+ssm+easyui+mysql框架的宠物医院](http://www.xiaoniucr.com/project/view/33.html) |
+| 023  | [java+ssm+bootstrap+mysql师生交流学习系统](http://www.xiaoniucr.com/project/view/34.html) |
+| 024  | [java+ssm+bootstrap+mysql婚纱摄影网站（网站+后台）](http://www.xiaoniucr.com/project/view/35.html) |
+| 025  | [java+ssm+bootstrap+layui+mysql视频在线播放网站](http://www.xiaoniucr.com/project/view/42.html) |
+| 027  | [java+ssm+mysql汽车销售后台管理系统](http://www.xiaoniucr.com/project/view/40.html) |
+| 029  | [java+ssm+easyui+mysql药品销售管理系统（含参考论文）](http://www.xiaoniucr.com/project/view/44.html) |
+| 030  | [java+ssm+mysql医院住院管理系统](http://www.xiaoniucr.com/project/view/45.html) |
+| 031  | [java+ssm+bootstrap+mysql毕业设计管理系统](http://www.xiaoniucr.com/project/view/47.html) |
+| 032  | [java+ssm+easyui+mysql员工管理系统](http://www.xiaoniucr.com/project/view/46.html) |
+| 033  | [java+ssm+bootstrap+mysql物流管理系统](http://www.xiaoniucr.com/project/view/48.html) |
+| 034  | [java+ssm+mysql销售管理系统（化工调味品）](http://www.xiaoniucr.com/project/view/53.html) |
+| 035  | [java+ssm+bootstrap+mysql高校社团管理](http://www.xiaoniucr.com/project/view/55.html) |
+| 037  | [java+ssm+mysql教学班级管理系统](http://www.xiaoniucr.com/project/view/56.html) |
+| 039  | [java+ssm+mysql的车辆维修管理系统](http://www.xiaoniucr.com/project/view/52.html) |
+| 040  | [java+ssm+layui+mysql高校宿舍管理系统](http://www.xiaoniucr.com/project/view/58.html) |
+| 042  | [java+ssm+bootstrap+mysql人力资源管理系统-新](http://www.xiaoniucr.com/project/view/60.html) |
+| 043  | [java+ssm+mysql养老院管理系统](http://www.xiaoniucr.com/project/view/134.html) |
+| 046  | [java+ssm+bootstrap+mysql出入库（进销存）管理系统](http://www.xiaoniucr.com/project/view/65.html) |
+| 047  | [java+ssm+bootstrap+mysql电子商城-精品](http://www.xiaoniucr.com/project/view/66.html) |
+| 051  | [java+ssm+mysql进销存管理系统](http://www.xiaoniucr.com/project/view/71.html) |
+| 052  | [java+ssm+bootstrap+mysql酒店管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/72.html) |
+| 053  | [java+ssm+mysql论坛](http://www.xiaoniucr.com/project/view/73.html) |
+| 054  | [java+ssm+bootsrap人力资源考勤系统（论文+开题+ppt+设计图纸）](http://www.xiaoniucr.com/project/view/26.html) |
+| 055  | [java+ssm+easyui+mysql图书馆座位预约系统](http://www.xiaoniucr.com/project/view/74.html) |
+| 056  | [java+ssm+mysql图书管理系统-界面精美](http://www.xiaoniucr.com/project/view/75.html) |
+| 057  | [java+ssm+mysql新闻网站（发布+展示）](http://www.xiaoniucr.com/project/view/76.html) |
+| 058  | [java+ssm+bootstrap+mysql网上零食商城](http://www.xiaoniucr.com/project/view/1.html) |
+| 060  | [java+ssm+mysql在线书城](http://www.xiaoniucr.com/project/view/78.html) |
+| 062  | [java+ssm+bootstrap+mysql自习室座位预约系统](http://www.xiaoniucr.com/project/view/80.html) |
+| 063  | [java+ssm+mysql班级通讯录](http://www.xiaoniucr.com/project/view/81.html) |
+| 064  | [java+ssm+mysql车辆租赁系统](http://www.xiaoniucr.com/project/view/82.html) |
+| 065  | [java+ssm+mysql智慧校园乒乓球裁判管理系统](http://www.xiaoniucr.com/project/view/83.html) |
+| 066  | [java+ssm+bootstrap+mysql教务系统-精品](http://www.xiaoniucr.com/project/view/84.html) |
+| 067  | [java+ssm+bootstrap+mysql高中在线考试系统](http://www.xiaoniucr.com/project/view/86.html) |
+| 070  | [java+ssm+mysql小区物业管理（源码+论文+任务书+ppt）](http://www.xiaoniucr.com/project/view/254.html) |
+| 071  | java+ssm+mysql学科竞赛管理系统                               |
+| 072  | [java+ssm+mysql博物馆售票网](http://www.xiaoniucr.com/project/view/262.html) |
+| 073  | [java+ssm+mysql精美在线商城网站](http://www.xiaoniucr.com/project/view/269.html) |
+| 075  | [java+ssm+mysql农场信息管理系统（源码+论文+ppt）](http://www.xiaoniucr.com/project/view/529.html) |
+| 076  | java+ssm+mysql酒店预约管理系统                               |
+| 077  | [java+ssm+mysql图书借阅管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/295.html) |
+| 079  | [java+ssm+mysql通用企业门户网站](http://www.xiaoniucr.com/project/view/307.html) |
+| 080  | [java+ssm+mysql房屋出租网（源码+论文）](http://www.xiaoniucr.com/project/view/317.html) |
+| 081  | [java+ssm+mysql垃圾分类管理（源码+论文）](http://www.xiaoniucr.com/project/view/329.html) |
+| 082  | [java+ssm+mysql旅游网站](http://www.xiaoniucr.com/project/view/343.html) |
+| 083  | [java+ssm+mysql校园教务管理系统](http://www.xiaoniucr.com/project/view/344.html) |
+| 085  | [java+ssm+mysql水电费管理系统](http://www.xiaoniucr.com/project/view/381.html) |
+| 086  | [java+ssm+mysql工资管理系统](http://www.xiaoniucr.com/project/view/382.html) |
+| 087  | [java+ssm（ibatis）+mysql校园二手商品交易网（源码+论文+答辩ppt）](http://www.xiaoniucr.com/project/view/399.html) |
+| 088  | [java+ssm（spring+springmvc+ibatis）+mysql物业管理系统](http://www.xiaoniucr.com/project/view/400.html) |
+| 089  | [java+ssm+mysql家电商城](http://www.xiaoniucr.com/project/view/411.html) |
+| 090  | [java+ssm+mysql校园失物招领网站](http://www.xiaoniucr.com/project/view/416.html) |
+| 091  | [java+ssm+mysql校园订餐管理系统](http://www.xiaoniucr.com/project/view/447.html) |
+| 092  | [java+ssm+mysql汽车维修管理系统](http://www.xiaoniucr.com/project/view/432.html) |
+| 093  | [java+ssm+mysql宿舍管理系统](http://www.xiaoniucr.com/project/view/431.html) |
+| 094  | [java+ssm+mysqlNBA球队管理系统（源码+论文+任务书+中期检查+答辩ppt）](http://www.xiaoniucr.com/project/view/444.html) |
+| 095  | [java+ssm+mysql疫情物资商城](http://www.xiaoniucr.com/project/view/490.html) |
+| 096  | [java+ssm+mysql校园快递物流管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/500.html) |
+| 097  | [java+ssm+mysq校园兼职网](http://www.xiaoniucr.com/project/view/501.html) |
+| 098  | [java+ssm+mysql汽车租赁管理系统](http://www.xiaoniucr.com/project/view/517.html) |
+| 099  | [java+ssm+mysql高校图书管理系统](http://www.xiaoniucr.com/project/view/519.html) |
+| 100  | [java+ssm+mysql网上购物商城（源码+论文+开题+答辩ppt）](http://www.xiaoniucr.com/project/view/520.html) |
 
 
 
@@ -391,11 +372,6 @@
 
 
 java毕业设计，这里是之前写过的一些java毕业设计项目，包含一些管理系统和网站设计，资源丰富，有需要的同学可以咨询qq=>1344127185或者vx=>itcoderyhl
-
-
-
-
-
 
 
 
