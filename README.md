@@ -10,7 +10,7 @@
 
 ### servlet项目清单：
 
-| 序号 | 课题                                                         |
+| 编号 | 课题                                                         |
 | ---- | ------------------------------------------------------------ |
 | 001  | [java+jsp+servlet+mysql高校宿舍管理系统（有升级版）#](http://www.xiaoniucr.com/project/view/69.html) |
 | 002  | [[java+jsp+servlet+sqlserver养生文化网（前后台+论文）](http://www.xiaoniucr.com/project/view/67.html) |
@@ -90,7 +90,7 @@
 
 ### SSH项目清单：
 
-| 序号 | 课题                                                         |
+| 编号 | 课题                                                         |
 | ---- | ------------------------------------------------------------ |
 | 001  | [java+ssh+mysql婚纱摄影网站（源码+论文+任务书+PPT）](http://www.xiaoniucr.com/project/view/131.html) |
 | 002  | [java+ssh+mysql学生考勤管理系统](http://www.xiaoniucr.com/project/view/130.html) |
@@ -313,12 +313,13 @@
 
 
 
-#### SpringBoot项目：
+### springboot项目清单：
 
-- 001java+springboot+mysql个人理财管理系统
-- 002java+springboot+-mysql安康药品管理系统
-- 003java+springboot+mysql客户关系管理系统
-
+| 编号 | 课题                                                         |
+| ---- | ------------------------------------------------------------ |
+| 001  | [java+springboot+mysql个人理财管理系统](http://www.xiaoniucr.com/project/view/379.html) |
+| 002  | [java+springboot+mysql安康药品管理系统](http://www.xiaoniucr.com/project/view/380.html) |
+| 003  | [java+springboot+mysql客户关系管理系统](http://www.xiaoniucr.com/project/view/391.html) |
 
 
 #### 其他项目：
