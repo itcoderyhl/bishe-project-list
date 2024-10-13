@@ -4,7 +4,7 @@
 
 #### 接网站、管理系统、小程序、APP、静态页面等系统定制或二次修改。
 
-#### 擅长javaweb、springboot、node、vue、layui、bootstrap、jquery、ajax、uniapp等技术。
+#### 擅长javaweb、springboot、ssm、node、vue、layui、bootstrap、jquery、ajax、uniapp等技术。
 
 #### 所有源码都经过本人严格测试，没有问题，请放心使用。
 
