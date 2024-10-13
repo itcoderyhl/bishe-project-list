@@ -1,15 +1,65 @@
 ## 接计算机毕业设计和论文
 
 #### 作者QQ：1344127185
+
 #### 接网站、管理系统、小程序、APP、静态页面等系统定制或二次修改。
+
 #### 擅长javaweb、springboot、node、vue、layui、bootstrap、jquery、ajax、uniapp等技术。
+
 #### 所有源码都经过本人严格测试，没有问题，请放心使用。
+
 #### 可提供所有运行软件、远程安装、技术答疑等服务，帮您快速搞定毕业设计或者课程设计。
 
-## 毕业设计成品清单
-下面一些以前做过的一些java毕业设计项目，可以按Ctrl+F搜索关键字查找相应课题， 有需要的同学可以咨询qq=>1344127185，更多精美设计不断更新中，一直都在ing.
+#### 下面是以前做过的一些java毕业设计项目，可以按Ctrl+F搜索关键字查找相应课题， 有需要的同学可以咨询qq=>1344127185，更多精美设计不断更新中，一直都在ing.
 
-## servlet项目清单：
+## 最新SSM定制项目清单（一直更新中）
+
+| 序号 | 项目                                                         | github地址                                              |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------- |
+| 001  | [java+ssm+mysql牛码小说网（源码+论文）](http://www.xiaoniucr.com/project/view/301.html) | https://github.com/itcoderyhl/novel                     |
+| 002  | [java+ssm+mysql暖心家装平台（源码+论文）](http://www.xiaoniucr.com/project/view/306.html) | https://github.com/itcoderyhl/homeDecoration            |
+| 003  | [java+ssm+mysql宠物商城](http://www.xiaoniucr.com/project/view/308.html) | https://github.com/itcoderyhl/PetSale                   |
+| 006  | [java+ssm+mysql今日头条新闻网站](http://www.xiaoniucr.com/project/view/318.html) | https://github.com/itcoderyhl/toutiao                   |
+| 007  | [java+ssm+mysql趣味数学网](http://www.xiaoniucr.com/project/view/366.html) | https://github.com/itcoderyhl/imath                     |
+| 010  | [java+ssm+mysql致青春校园网](http://www.xiaoniucr.com/project/view/367.html) | https://github.com/itcoderyhl/iphoto                    |
+| 011  | [java+ssm+mysql清风小栈博客网](http://www.xiaoniucr.com/project/view/368.html) | https://github.com/itcoderyhl/iblog                     |
+| 012  | [java+ssm+mysql时光电子相册](http://www.xiaoniucr.com/project/view/369.html) | https://github.com/itcoderyhl/ipicture                  |
+| 013  | [java+ssm+mysql如影随行电影网](http://www.xiaoniucr.com/project/view/370.html) | https://github.com/itcoderyhl/imove                     |
+| 014  | [java+ssm+mysql芒果酒店预约平台](http://www.xiaoniucr.com/project/view/371.html) | https://github.com/itcoderyhl/ihotel                    |
+| 015  | [java+ssm+mysql高校宿舍管理系统](http://www.xiaoniucr.com/project/view/372.html) | https://github.com/itcoderyhl/idorm                     |
+| 016  | [java+ssm+mysql教务管理系统](http://www.xiaoniucr.com/project/view/373.html) | https://github.com/itcoderyhl/iedumgr                   |
+| 017  | [java+ssm+mysql简单校友录网站](http://www.xiaoniucr.com/project/view/374.html) | https://github.com/itcoderyhl/istumgr                   |
+| 018  | [java+ssm+mysql教师档案管理系统](http://www.xiaoniucr.com/project/view/375.html) | https://github.com/itcoderyhl/iteachmgr                 |
+| 019  | [java+ssm+mysql物业管理系统](http://www.xiaoniucr.com/project/view/456.html) | https://github.com/itcoderyhl/Property                  |
+| 020  | [java+ssm+mysql启明星家教网站](http://www.xiaoniucr.com/project/view/377.html) | https://github.com/itcoderyhl/iteach                    |
+| 021  | [java+ssm+mysql天天英语学习网](http://www.xiaoniucr.com/project/view/453.html) | https://github.com/itcoderyhl/iStudyEnglish             |
+| 022  | [java+ssm+mysql高校党员管理系统](http://www.xiaoniucr.com/project/view/454.html) | https://github.com/itcoderyhl/PartyMember               |
+| 023  | [java+ssm+mysql在线文件管理系统](http://www.xiaoniucr.com/project/view/455.html) | https://github.com/itcoderyhl/fileOnline                |
+| 024  | [java+ssm+mysql小区物业管理系统](http://www.xiaoniucr.com/project/view/456.html) | https://github.com/itcoderyhl/Property                  |
+| 025  | [java+ssm+mysql电梯管理系统](http://www.xiaoniucr.com/project/view/521.html) | https://github.com/itcoderyhl/Elevator                  |
+| 026  | [java+ssm+mysql校园在线答疑管理系统](http://www.xiaoniucr.com/project/view/457.html) | https://github.com/itcoderyhl/OnlineQA                  |
+| 027  | [java+ssm+mysql小区疫情管理系统](http://www.xiaoniucr.com/project/view/522.html) | https://github.com/itcoderyhl/epidemicMgr               |
+| 028  | [java+ssm+mysql水费管理系统](http://www.xiaoniucr.com/project/view/523.html) | https://github.com/itcoderyhl/WCM                       |
+| 029  | [java+ssm+mysql电费管理系统](http://www.xiaoniucr.com/project/view/524.html) | https://github.com/itcoderyhl/ECM                       |
+| 030  | [java+ssm+mysql疫苗预约网](http://www.xiaoniucr.com/project/view/648.html) | https://github.com/itcoderyhl/vaccine-stu-mgr           |
+| 031  | [java+ssm+mysql校园疫情管理系统（源码+论文）](http://www.xiaoniucr.com/project/view/509.html) | https://github.com/itcoderyhl/campus-epidemic-mgr       |
+| 032  | [java+ssm+mysql计算机等级考试网](http://www.xiaoniucr.com/project/view/649.html) | https://github.com/itcoderyhl/NCRE                      |
+| 033  | [java+ssm+mysql收纳培训网](http://www.xiaoniucr.com/project/view/650.html) | https://github.com/itcoderyhl/Tidy                      |
+| 034  | [java+ssm+mysql大学生疫苗预约网](http://www.xiaoniucr.com/project/view/651.html) | https://github.com/itcoderyhl/vaccine-stu-mgr           |
+| 035  | [java+ssm+mysql美食论坛](http://www.xiaoniucr.com/project/view/652.html) | https://github.com/itcoderyhl/SnackTalk                 |
+| 036  | [java+ssm+mysql美妆论坛](http://www.xiaoniucr.com/project/view/653.html) | https://github.com/itcoderyhl/Beauty                    |
+| 037  | [java+ssm+mysql高校学籍管理系统](http://www.xiaoniucr.com/project/view/654.html) | https://github.com/itcoderyhl/school-roll-mgr           |
+| 039  | [java+ssm+mysql学生信息管理系统](http://www.xiaoniucr.com/project/view/655.html) | https://github.com/itcoderyhl/students-mgr              |
+| 040  | [java+ssm+mysql校园疫情防控管理系统](http://www.xiaoniucr.com/project/view/656.html) | https://github.com/itcoderyhl/campus-epidemic-mgr-new   |
+| 041  | [java+ssm+mysql社区疫情管理系统](http://www.xiaoniucr.com/project/view/657.html) | https://github.com/itcoderyhl/community-epidemic-system |
+| 042  | [java+ssm+mysql物流信息网](http://www.xiaoniucr.com/project/view/658.html) | https://github.com/itcoderyhl/logistics                 |
+| 043  | [java+ssm+mysql商品管理系统](http://www.xiaoniucr.com/project/view/659.html) | https://github.com/itcoderyhl/stock-mgr                 |
+| 045  | [java+ssm+mysql成绩统计分析管理系统](http://www.xiaoniucr.com/project/view/660.html) | https://github.com/itcoderyhl/score-mgr                 |
+| 046  | [java+ssm+mysql房屋租赁管理系统](http://www.xiaoniucr.com/project/view/661.html) | https://github.com/itcoderyhl/houseRent                 |
+| 047  | [java+ssm+mysql校园物品租赁网](http://www.xiaoniucr.com/project/view/662.html) | https://github.com/itcoderyhl/goodsRent                 |
+| 048  | [java+ssm+mysql水产品商城](http://www.xiaoniucr.com/project/view/663.html) | https://github.com/itcoderyhl/aquatic-mall              |
+
+## Servlet项目清单：
 
 | 编号 | 课题                                                         |
 | ---- | ------------------------------------------------------------ |
@@ -314,7 +364,7 @@
 
 
 
-## springboot项目清单：
+## Springboot项目清单：
 
 | 编号 | 课题                                                         |
 | ---- | ------------------------------------------------------------ |
